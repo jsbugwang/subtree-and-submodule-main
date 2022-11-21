@@ -6,3 +6,5 @@ new appended
  update from component
 
  update from component
+
+new appended subtree
